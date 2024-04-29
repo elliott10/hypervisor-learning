@@ -62,6 +62,9 @@ https://github.com/arceos-hypervisor/2023-virtualization-campus.git
 * 课件PPT：
 https://github.com/arceos-hypervisor/2023-virtualization-campus/tree/master/PPT
 
+* HW文档
+https://github.com/arceos-hypervisor/doc/tree/main
+
 * 虚拟化书籍推荐：
 [《系统虚拟化：原理与实现》](books/系统虚拟化原理与实现.pdf)
 
